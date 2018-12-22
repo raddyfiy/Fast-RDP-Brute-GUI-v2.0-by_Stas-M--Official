@@ -24,4 +24,6 @@ https://web.archive.org/web/20160707101802/http://stascorp.com/load/1-1-0-58
 
 click download, and wait for redirecting, file will be downloaded.
 
+![Image text](https://raw.githubusercontent.com/raddyfiy/Fast-RDP-Brute-GUI-v2.0-by_Stas-M--Official/master/2018-12-22_143118.png)
+
 password：Stas'M Corp.
