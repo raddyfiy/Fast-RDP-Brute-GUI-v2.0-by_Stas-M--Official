@@ -9,4 +9,13 @@
 
 点击download，会出现重定向页，耐心等待就会出现下载窗口
 
+
 # Fast-RDP-Brute-GUI-v2.0-by_Stas-M--Official
+Stas's website:http://stascorp.com/load/1-1-0-58
+
+We can see he lost his code, so he can't update, and deleted the old version.
+Luckly, we can download in archive.
+
+https://web.archive.org/web/20160707101802/http://stascorp.com/load/1-1-0-58
+
+click download, and wait for redirecting, download would start.
