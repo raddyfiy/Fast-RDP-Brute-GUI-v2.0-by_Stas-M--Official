@@ -9,6 +9,7 @@
 打开：https://web.archive.org/web/20160707101802/http://stascorp.com/load/1-1-0-58
 
 点击download，会出现重定向页，耐心等待就会出现下载窗口。
+![Image text](https://raw.githubusercontent.com/raddyfiy/Fast-RDP-Brute-GUI-v2.0-by_Stas-M--Official/master/2018-12-22_143118.png)
 
 解压密码：Stas'M Corp.
 
